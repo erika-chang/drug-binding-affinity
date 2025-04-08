@@ -26,13 +26,14 @@ Using publicly available data from the **BindingDB** and **PDBbind** databases, 
 ---
 
 ## 📂 Project Structure
-📁 protein-drug-affinity/ │ 
-                          ├── data/ # Raw and processed datasets 
-                          ├── notebooks/ # Jupyter Notebooks for EDA, modeling, etc. 
-                          ├── src/ # Python scripts (feature extraction, models) 
-                          ├── results/ # Outputs, model metrics, plots 
-                          ├── README.md # Project overview 
-                          └── requirements.txt # Python dependencies
+protein-drug-affinity/
+│
+├── data/            # Raw and processed datasets
+├── notebooks/       # Jupyter Notebooks for EDA, modeling, etc.
+├── src/             # Python scripts (feature extraction, models)
+├── results/         # Outputs, model metrics, plots
+├── README.md        # Project overview
+└── requirements.txt # Python dependencies
 
 ---
 
